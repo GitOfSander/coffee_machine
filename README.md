@@ -1,7 +1,7 @@
-#Coffee machine
+# Coffee machine
 Created this easy coffee machine program with Kotlin while following the Jetbrains academy.
 
-#Overview
+# Overview
 The program exists of the following commands:
 
 1. buy - show the coffee options you can buy.
@@ -74,7 +74,7 @@ Write action (buy, fill, take, remaining, exit):
 exit
 </pre>
 
-#Usage
+# Usage
 Download the release and go in your terminal where you placed coffee_machine.jar and run:
 
-java -jar coffee_machine.jar
+<pre>java -jar coffee_machine.jar</pre>
