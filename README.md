@@ -4,11 +4,7 @@ Created this easy coffee machine program with Kotlin while following the Jetbrai
 # Overview
 The program exists of the following commands:
 
-1. buy - show the coffee options you can buy.
-A. 1 - espresso.
-B. 2 - latte.
-C. 3 - cappuccino.
-D. back - to main menu.
+1. buy - show the coffee options you can buy: 1 - espresso,  2 - latte,  3 - cappuccino, back - to main menu.
 2. fill - will ask you the amount of water, milk, coffee beans and disposable cups you want to fill.
 3. take - take all the money out of the machine.
 4. remaining - show the remaining content of the coffee machine.
